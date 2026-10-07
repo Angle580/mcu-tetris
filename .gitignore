@@ -1,0 +1,22 @@
+# Keil / uVision 编译中间产物
+*.obj
+*.lst
+*.lnp
+*.plg
+*.m51
+*.bak
+*.uvgui
+*.uvgui.*
+*.uvopt
+*.iex
+*_uvproj.bak
+*_uvopt.bak
+
+# Proteus 用户工作区文件
+*.pdsprj.*.workspace
+*.DBK
+*.PWI
+
+# 通用系统文件
+Thumbs.db
+Desktop.ini
